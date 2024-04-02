@@ -1,7 +1,7 @@
 Project: Caesar Cipher
 =============
 
-A basic terminal-based app that allows users to submit a string and have it cryptographed using [Caesar Cipher](https://www.youtube.com/watch?v=36xNpbosfTY).
+A basic terminal-based app that allows users to submit a string and have it encoded using [Caesar Cipher](https://www.youtube.com/watch?v=36xNpbosfTY).
 
 Here's the [live project demo.](https://replit.com/@AlanSobchacki/odin-caesar-cipher) (NOTE: You'll need a Replit account to run it.)
 
