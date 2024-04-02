@@ -10,7 +10,7 @@ You can also run it if you have Ruby installed in your system, by running 'ruby 
 About
 -----
 
-This project was completed as part of [The Odin Project](https://www.theodinproject.com/) [Ruby](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby) curriculum. It is the second project required for completion of the Ruby Course [1/12].
+This project was completed as part of [The Odin Project](https://www.theodinproject.com/) [Ruby](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby) curriculum. It is the first project required for completion of the Ruby Course [1/12].
 
 These were the project requirements:
 
